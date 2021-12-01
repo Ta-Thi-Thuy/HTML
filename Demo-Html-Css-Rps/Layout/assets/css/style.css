@@ -1,0 +1,33 @@
+.page-login {
+    margin-top: 40px;
+}
+
+.form-login {
+    width: 340px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo-login {
+    width: 340px;
+}
+
+.form-submit-login {
+    margin-top: 25px;
+    background-color: #e4e4e6;
+    width: 340px;
+    height: 275px;
+
+}
+
+.form-group {
+    padding-top: 25px;
+}
+
+.form-control {
+    font-size: 12px;
+    background-color: #f4f9ff;
+    width: 300px;
+    height: 32px;
+    margin: auto;
+}
